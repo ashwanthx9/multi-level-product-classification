@@ -15,7 +15,7 @@ This project builds a machine learning pipeline to classify Etsy product listing
   - Logistic Regression
   - Naive Bayes
 
----
+
 
 ## 📊 Results
 
@@ -25,16 +25,16 @@ This project builds a machine learning pipeline to classify Etsy product listing
 **Bottom-Level Classification**
 - XGBoost: **58.9% accuracy**, F1: **0.59**
 
----
 
-## 🔍 Key Insights
+
+# 🔍 Key Insights
 - XGBoost performs best across both tasks  
 - Text features (titles & tags) are highly predictive  
 - Fine-grained classification is more challenging due to class imbalance  
 
----
 
-## 🛠️ Tech Stack
+
+# 🛠️ Tech Stack
 Python • Scikit-learn • XGBoost • Pandas • NLP (TF-IDF)
 
 
