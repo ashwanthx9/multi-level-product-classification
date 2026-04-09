@@ -27,14 +27,14 @@ This project builds a machine learning pipeline to classify Etsy product listing
 
 
 
-# 🔍 Key Insights
+## 🔍 Key Insights
 - XGBoost performs best across both tasks  
 - Text features (titles & tags) are highly predictive  
 - Fine-grained classification is more challenging due to class imbalance  
 
 
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python • Scikit-learn • XGBoost • Pandas • NLP (TF-IDF)
 
 
